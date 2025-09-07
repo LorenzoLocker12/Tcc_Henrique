@@ -1,0 +1,63 @@
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data and models (keep structure via .gitkeep)
+data/*
+!data/.gitkeep
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+!data/external/.gitkeep
+models/*
+!models/.gitkeep
+reports/figures/*
+!reports/figures/.gitkeep
+
+# Logs
+logs/
+*.log
+
+# Cache
+*.cache/
+.cache/
+
+# Coverage
+.coverage
+htmlcov/

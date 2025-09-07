@@ -1,0 +1,16 @@
+﻿numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
+ipykernel
+python-dotenv
+pyyaml
+mlflow
+plotly
+xgboost
+lightgbm
+warnings
+ortools

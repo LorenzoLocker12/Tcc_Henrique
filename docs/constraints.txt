@@ -1,0 +1,9 @@
+- Cada Aluno necessita ter 1 disciplina por dia da semana SE disponivel para o mesmo
+- Cada Aluno não pode ter mais de 1 disciplina por dia da semana
+- Cada Matéria possui seu Mínimo e Máximo de alunos por dia da semana.
+- Cada Matéria possui mais de uma turma sendo exibida pelo numero depois do underline _, ou seja o aluno nao pode possuir duas materias iguais na semana.
+- 
+
+
+
+- O Output do modelo deve ser qual disciplina cada aluno pegou cada dia da semana.

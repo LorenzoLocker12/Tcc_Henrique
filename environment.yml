@@ -1,0 +1,22 @@
+﻿name: data-science
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - ipykernel
+  - pip
+  - pip:
+      - python-dotenv
+      - pyyaml
+      - mlflow
+      - plotly
+      - xgboost
+      - lightgbm
